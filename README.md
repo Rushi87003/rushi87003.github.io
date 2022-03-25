@@ -3,4 +3,4 @@
 ## 2nd largest
 ### small
 [link](https://tailwindcss.com/docs/background-color)
-<img src = "sign.jpeg"><br>
+<img src = "sign.jpeg.png"><br>
